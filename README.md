@@ -199,3 +199,6 @@ Every error is JSON: `{ "message": "Record not found" }`. Validation errors add 
 - Subscription changes are simulated; no payments are taken.
 - The month projection is linear (spent so far ÷ days elapsed × days in month), so fixed bills early in the month can make it look high.
 - Transfers between wallets are not implemented; record them as an expense and an income.
+"# budgettracker" 
+"# budgettracker" 
+"# budgettracker" 
