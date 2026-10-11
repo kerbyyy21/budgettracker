@@ -1,11 +1,11 @@
 # Members
-Bundalian Christian Francis E.
-Del Espiritu Kerby G.
-Perez John Carlo D.
+**Bundalian Christian Francis E.
+**Del Espiritu Kerby G.
+**Perez John Carlo D.
 
-# SpendSmart Web
+# Budget Tracker
 
-A full-stack budget and expense tracker for Filipino students and young professionals. It is the web version of the SpendSmart mobile app (Flutter), rebuilt with **React + TypeScript + Tailwind CSS**, an **Express REST API** and **MongoDB (Mongoose)**.
+A full-stack budget and expense tracker for Filipino students and young professionals. It is the web version of the BudgetTracker mobile app (Flutter), rebuilt with **React + TypeScript + Tailwind CSS**, an **Express REST API** and **MongoDB (Mongoose)**.
 
 **Course:** CTADWEBL – Advanced Web Programming (Final Project)
 **Group members:** _add names and GitHub usernames here_
