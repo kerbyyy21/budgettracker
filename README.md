@@ -1,7 +1,7 @@
 # Members
-**Bundalian Christian Francis E.
-**Del Espiritu Kerby G.
-**Perez John Carlo D.
+Bundalian Christian Francis E. |
+Del Espiritu Kerby G. |
+Perez John Carlo D. 
 
 # Budget Tracker
 
